@@ -4,12 +4,12 @@
 <br/>
 
 #### 📚 Repository
-##### - Python : 파이썬 코딩 공부
-##### - MicroComputer : ATMEGA4809를 사용한 임베디드 시스템 코드 공부
-##### - DeepLearning : 딥러닝 기초 이론 및 코세라 강의 내용
-##### - Statistics_Analysis : 통계 분석 공부
-##### - Neural_Signal_Processing : EEG 신호 처리 코드
-##### - Study : 학부 연구 공부 내용
+#### - Python : 파이썬 코딩 공부
+#### - MicroComputer : ATMEGA4809를 사용한 임베디드 시스템 코드 공부
+#### - DeepLearning : 딥러닝 기초 이론 및 코세라 강의 내용
+#### - Statistics_Analysis : 통계 분석 공부
+#### - Neural_Signal_Processing : EEG 신호 처리 코드
+#### - Study : 학부 연구 공부 내용
 
 <!--
 **2tjdwls/2tjdwls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
