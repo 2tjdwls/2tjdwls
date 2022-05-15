@@ -1,4 +1,4 @@
-### Hi there 👋
+### Student studying neural engineering 👋
 
 <!--
 **2tjdwls/2tjdwls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
