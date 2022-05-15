@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Python-orange?style=flat&logo=Python&logoColor=E8E8E8"/>
 <img src="https://img.shields.io/badge/C language-yellow?style=flat&logo=C&logoColor=E8E8E8"/>
+<img src="https://img.shields.io/badge/Github-black?style=flat&logo=Github&logoColor=E8E8E8"/>
 <img src="https://img.shields.io/badge/PPT-red?style=flat&logo=Microsoft PowerPoint&logoColor=E8E8E8"/>
 <img src="https://img.shields.io/badge/Excel-green?style=flat&logo=Microsoft Excel&logoColor=E8E8E8"/>
 <img src="https://img.shields.io/badge/Word-blue?style=flat&logo=Microsoft Word&logoColor=E8E8E8"/>
