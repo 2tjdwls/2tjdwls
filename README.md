@@ -1,6 +1,6 @@
 <div align=center>
   
-### Student studying neural engineering 👋  
+### 안녕하세요. 뇌신경공학을 공부하고 있는 이성진입니다. 👋  
 <br/>
 
 #### 📚 Repository
