@@ -11,7 +11,6 @@
 #### - Neural_Signal_Processing : EEG 신호 처리 코드
 #### - Study : 학부 연구 공부 내용
 <br/>
-<br/>
 
 <!--
 **2tjdwls/2tjdwls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,6 +33,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Excel-green?style=flat&logo=Microsoft Excel&logoColor=E8E8E8"/>
 <img src="https://img.shields.io/badge/Word-blue?style=flat&logo=Microsoft Word&logoColor=E8E8E8"/>
 
+<br/>
 <br/>
 
 
