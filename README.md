@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   
 
 
-  [![LeeSeongJin's github stats](https://github-readme-stats.vercel.app/api?username=2tjdwls)](https://github.com/2tjdwls/github-readme-stats)
+![LeeSeongJin's github stats](https://github-readme-stats.vercel.app/api?username=2tjdwls&show_icons=true)
   [![LeeSeongJin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=2tjdwls&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/2tjdwls)
 
   </div>
