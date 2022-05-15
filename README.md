@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 -->
 <br/>
 
-<img src="https://img.shields.io/badge/Python-orange?style=flat&logo=Python&logoColor=111111"/>
-<img src="https://img.shields.io/badge/C language-yellow?style=flat&logo=C&logoColor=111111"/>
-<img src="https://img.shields.io/badge/PPT-red?style=flat&logo=Microsoft PowerPoint&logoColor=111111"/>
-<img src="https://img.shields.io/badge/Excel-green?style=flat&logo=Microsoft Excel&logoColor=111111"/>
-<img src="https://img.shields.io/badge/Word-blue?style=flat&logo=Microsoft Word&logoColor=111111"/>
+<img src="https://img.shields.io/badge/Python-orange?style=flat&logo=Python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/C language-yellow?style=flat&logo=C&logoColor=A8B9CC"/>
+<img src="https://img.shields.io/badge/PPT-red?style=flat&logo=Microsoft PowerPoint&logoColor=B7472A"/>
+<img src="https://img.shields.io/badge/Excel-green?style=flat&logo=Microsoft Excel&logoColor=217346"/>
+<img src="https://img.shields.io/badge/Word-blue?style=flat&logo=Microsoft Word&logoColor=2B579A"/>
 
 
 
