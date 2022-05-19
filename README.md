@@ -37,14 +37,15 @@ Here are some ideas to get you started:
 <br/>
 
 
-<img src="https://img.shields.io/badge/Python-orange?style=flat&logo=Python&logoColor=E8E8E8"/>
-<img src="https://img.shields.io/badge/C language-yellow?style=flat&logo=C&logoColor=E8E8E8"/>
-<img src="https://img.shields.io/badge/Github-black?style=flat&logo=Github&logoColor=E8E8E8"/>
-<img src="https://img.shields.io/badge/Notion-black?style=flat&logo=Notion&logoColor=E8E8E8"/>
-<img src="https://img.shields.io/badge/Mendeley-red?style=flat&logo=Microsoft Word&logoColor=E8E8E8"/>
-<img src="https://img.shields.io/badge/PPT-red?style=flat&logo=Microsoft PowerPoint&logoColor=E8E8E8"/>
-<img src="https://img.shields.io/badge/Excel-green?style=flat&logo=Microsoft Excel&logoColor=E8E8E8"/>
-<img src="https://img.shields.io/badge/Word-blue?style=flat&logo=Microsoft Word&logoColor=E8E8E8"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C language-A8B9CC?style=flat&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mendeley-9D1620?style=flat&logo=Microsoft Word&logoColor=white"/>
+<img src="https://img.shields.io/badge/PPT-B7472A?style=flat&logo=Microsoft PowerPoint&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=Microsoft Excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Word-2B579A?style=flat&logo=Microsoft Word&logoColor=white"/>
+
 
 <br/>
 <br/>
